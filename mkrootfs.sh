@@ -1,5 +1,5 @@
 #!/bin/bash
-
+//fffffppppfile
 sudo rm -rf rootfs
 sudo rm -rf tmpfs
 sudo rm -f a9rootfs.ext3
