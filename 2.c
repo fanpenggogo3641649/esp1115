@@ -9,4 +9,5 @@ int main()
     fputs(buf,fp);
     fclose(fp);
     return 0;
+    //a new note of 10/27/2018
 }
