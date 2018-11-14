@@ -11,5 +11,6 @@ int main()
     fclose(fp);
     return 0;
     //a new note of 10/27/2018
-	// in branch master, make some changes
+	// in branch master, make some changes for secfan
+
 }
