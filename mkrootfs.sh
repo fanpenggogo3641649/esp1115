@@ -1,3 +1,4 @@
+#!/note 1115
 #!/bin/bash
 //fffffppppfile
 sudo rm -rf rootfs
