@@ -1,4 +1,7 @@
 wwwww
+what about fried chicken!
+#!/note 1115
+>>>>>>> secfan
 #!/bin/bash
 //fffffppppfile
 sudo rm -rf rootfs
