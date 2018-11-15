@@ -1,3 +1,4 @@
+what about fried chicken!
 #!/note 1115
 #!/bin/bash
 //fffffppppfile
