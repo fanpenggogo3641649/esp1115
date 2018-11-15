@@ -1,3 +1,4 @@
+wwwww
 #!/bin/bash
 //fffffppppfile
 sudo rm -rf rootfs
